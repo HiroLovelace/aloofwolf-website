@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0)),url(aloof_wolf_brand_00.png);
+    height: 1000vh;
+    background-color: cover;
+    background-position: center;
+}
+
+.main-navigation menu
+{
+    display: inline;
+}
+
+.main-navigation menu a
+{
+    color: beige;
+    text-decoration: solid;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 5px;
+    border: 2px solid transparent;
+}
+
+.main-navigation menu.active a
+{
+    border: 2px solid gray;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+.main-navigation menu a:hover
+{
+    border: 2px solid gray;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
