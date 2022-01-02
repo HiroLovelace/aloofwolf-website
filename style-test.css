@@ -7,10 +7,11 @@
 header
 {
     background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0)),url(aloof_wolf_brand_draft_00.png);
-    background-size: contain;
     height: 100vh;
-    background-color: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
+    background-color: #151411;
 }
 
 .main-nav
@@ -28,7 +29,7 @@ header
 
 .main-nav menu a
 {
-    color: beige;
+    color: #EBD783;
     text-decoration: solid;
     padding: 5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -39,7 +40,7 @@ header
 
 .main-nav menu.active a
 {
-    border: 2px solid gray;
+    border: 2px solid #FF9B9B;
     border-radius: 5px;
     border-collapse: separate;
     border-spacing: 20px;
@@ -47,7 +48,7 @@ header
 
 .main-nav menu a:hover
 {
-    border: 2px solid gray;
+    border: 2px solid #FF9B9B;
     border-radius: 5px;
     border-collapse: separate;
     border-spacing: 20px;
