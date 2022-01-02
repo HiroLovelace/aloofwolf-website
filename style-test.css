@@ -12,12 +12,12 @@ header
     background-position: center;
 }
 
-.main-navigation menu
+.main-nav menu
 {
     display: inline;
 }
 
-.main-navigation menu a
+.main-nav menu a
 {
     color: beige;
     text-decoration: solid;
@@ -28,7 +28,7 @@ header
     border: 2px solid transparent;
 }
 
-.main-navigation menu.active a
+.main-nav menu.active a
 {
     border: 2px solid gray;
     border-radius: 5px;
@@ -36,7 +36,7 @@ header
     border-spacing: 20px;
 }
 
-.main-navigation menu a:hover
+.main-nav menu a:hover
 {
     border: 2px solid gray;
     border-radius: 5px;
