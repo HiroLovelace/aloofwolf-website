@@ -6,7 +6,7 @@
 
 header
 {
-    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0)),url( );
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0)),url(resources/logo-concept-01-draft-01-facebook-profile-scale-2.png);
     height: 100vh;
     background-size: contain;
     background-repeat: no-repeat;
